@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Family Weight Manager</string>
+    <string name="female_radio">Female</string>
+    <string name="male_radio">Male</string>
+    <string name="add_button">Add</string>
+    <string name="edit_button">Update</string>
+    <string name="view_weight_button">View Weight</string>
+</resources>
